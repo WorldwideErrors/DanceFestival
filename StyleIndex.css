@@ -1,0 +1,307 @@
+h1 {
+    color: #ffffff;
+    text-shadow: -3px 0 #232323, 0 3px #232323, 3px 0 #232323, 0 -3px #232323;
+    text-align: center;
+    font-family: "Calibri";
+    text-decoration: none;
+}
+#firstL{
+    position: relative;
+}
+#secondL{
+
+}
+.TextInput{
+    background-color: white; /* Green */
+    border: 2px solid #ffffff;
+    height: 20px;
+    color: black;
+    width: 355px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.SubmitInput{
+    background-color: white; /* Green */
+    border: 2px solid #ffffff;
+    color: black;
+    width: 177px;
+    height: 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.SubmitInput:hover {
+    background-color: rgba(41, 41, 39, 0.51);
+    color: #ffffff;
+
+}
+
+.TicketForm{
+    background-color: white; /* Green */
+    border: 2px solid #ffffff;
+    color: black;
+    width: 355px;
+    height: 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.Submitterito{
+    background-color: white; /* Green */
+    border: 2px solid #ffffff;
+    color: black;
+    width: 355px;
+    height: 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.Submitterito:hover {
+    background-color: rgba(41, 41, 39, 0.51);
+    color: #ffffff;
+}
+.WebButton{
+background-color: #000000; /* Green */
+border: 2px solid #ffffff;
+color: black;
+width: 355px;
+height: 89px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+-webkit-transition-duration: 0.4s; /* Safari */
+transition-duration: 0.4s;
+cursor: pointer;
+border-radius: 12px;
+}
+.WebButton >button {
+    background-color: white;
+    color: black;
+    border: 2px solid #000000;
+}
+.Ticketbutton{
+    background-color: #000000; /* Green */
+    border: 2px solid #ffffff;
+    color: black;
+    width: 355px;
+    height: 425px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.Ticketbutton >button {
+    background-color: white;
+    color: black;
+    border: 2px solid #000000;
+}
+.Ticketbutton:hover{
+    background-color: rgba(41, 41, 39, 0.51);
+    color: #000000;
+}
+.Tickets {
+    float: right;
+    padding: 20px;
+    width: 97%;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 16px;
+    margin-top: 30px;
+}
+
+.WebButton:hover {
+    background-color: rgba(41, 41, 39, 0.51);
+    color: #000000;
+
+}
+h2 {
+    color: #ffffff;
+    text-shadow: -3px 0 #232323, 0 3px #232323, 3px 0 #232323, 0 -3px #232323;
+    font-family: "Calibri";
+    text-decoration: none;
+}
+h3 {
+    color: #ffffff;
+    text-shadow: -3px 0 #232323, 0 3px #232323, 3px 0 #232323, 0 -3px #232323;
+    font-family: "Calibri";
+    text-decoration: none;
+    text-align: center;
+}
+h2.form-input-title{
+    text-align: left;
+}
+#TextAreaNews{
+    background-color: white; /* Green */
+    border: 2px solid #ffffff;
+    height: 100px;
+    color: black;
+    width: 355px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 12px;
+}
+h3 {
+    color: #ffffff;
+    text-shadow: -3px 0 #232323, 0 3px #232323, 3px 0 #232323, 0 -3px #232323;
+    font-family: "Calibri";
+    text-decoration: none;
+}
+hr {
+    border: 2px dashed #ffffff
+}
+p {
+    color: white;
+    text-align: left;
+    font-family: "Calibri";
+}
+nav {
+    background-color: rgba(0, 0, 0, 0.4);
+    background-size: cover;
+    font-size: 25px;
+    color: black;
+    height: max-content;
+    display: block;
+}
+.newsItem{
+border-radius: 12px;
+    width: 90%;
+}
+
+.Welcome {
+    float: left;
+    padding: 10px;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 16px;
+}
+.Contact {
+    float: right;
+    padding: 20px;
+    width: 330px;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 16px;
+}
+
+.LineUp {
+    float: right;
+    padding: 20px;
+    width: 97%;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 16px;
+    margin-top: 30px;
+}
+.LineUpData {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+horiz-align: center;
+}
+.Map {
+    float: left;
+    width: 75%;
+    background-color: rgba(0, 0, 0, 0.4);
+    height: 700px; /* only for demonstration, should be removed */
+}
+.Introductie {
+    padding: 10px;
+    width: 70%;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 16px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.AdminHubberino{
+    text-align: left;
+}
+.Timer{
+    float: right;
+    padding: 10px;
+    width: 40%;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 16px;
+    text-align: right;
+}
+.NewsAdd{
+    padding: 10px;
+    width: 70%;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 16px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.Inloggun{
+    padding: 10px;
+    width: 70%;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 16px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+body {
+    margin:0;
+    background-image: url("https://electronicmidwest.com/wp-content/uploads/2013/09/EDM-stage-design-master-of-hardcore.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.flex-container {
+    display: flex;
+    background-color: rgba(241, 241, 241, 0);
+}
+.flex-container > div > a{text-decoration:none;
+}
+.flex-container > div {
+    background-color: rgba(30, 144, 255, 0);
+    width: 500px;
+    margin: 10px;
+    text-align: center;
+}
+.googleMap {
+    float: left;
+    padding: 0px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.86);
+    height: 700px; /* only for demonstration, should be removed */
+}
+.Linkje {
+    text-decoration: none;
+}
